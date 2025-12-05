@@ -1,0 +1,10 @@
+[project]
+name = "financial_calc"
+version = "0.1.0"
+description = "Financial calculator"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
